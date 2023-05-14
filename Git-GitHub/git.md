@@ -1,3 +1,3 @@
 # Git
 ## Origem História
-Recomendações de leitura: Git Pro - Eustáquio Rangel
+Recomendações de leitura: Git Pro - Eustáquio Rangel livro da lista do curso em video do Gustavo Guanabara
